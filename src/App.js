@@ -10,6 +10,9 @@ import Cart from "./components/Cart";
 import Product from "./components/Product";
 import RootLayout from "./components/RootLayout";
 
+
+
+
 function App() {
   const router = createBrowserRouter(
     createRoutesFromElements(
